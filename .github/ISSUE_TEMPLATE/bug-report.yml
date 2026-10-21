@@ -16,20 +16,44 @@ body:
       label: 插件名称
       description: 选择出现问题的插件。
       options:
-        - InsekiHead
-        - InsekiAuth
-        - PokeBall
-        - MonthlyPerks
-        - InsekiCodeKey
-        - TagBackpack
-        - AutoSpectator
-        - DynamicViewDistance
-        - TempAccess
-        - CustomJoin
-        - BackpackPro
+        - AccessoryBackpack
         - AdvancedFlight
-        - InsekiGacha
-        - ReferralRebate
+        - AutoResetWorld
+        - AutoSpectator
+        - BackpackPro
+        - BetterDeath
+        - BindingCursePatch
+        - BuilderWand
+        - BundleLock
+        - ConditionalStat
+        - CustomJoin
+        - DynamicViewDistance
+        - EnchantBoost
+        - ImmortalPeach
+        - InsekiBlockFortune
+        - InsekiCodeKey
+        - InsekiDurabilityControl
+        - InsekiFastContainer
+        - InsekiHead
+        - InsekiLoot
+        - InsekiPickaxe
+        - InsekiRuleDialog
+        - InsekiToolKit
+        - InviteMe
+        - ItemNotifier
+        - LiteCaptcha
+        - MobFarmRateLimit
+        - MobLimiter
+        - MonthlyPerks
+        - PokeBall
+        - SakuraHead
+        - SakuraMove
+        - SaturationPill
+        - StealCrops
+        - TagBackpack
+        - TempAccess
+        - UnbreakableGem
+        - ZygonSpawner
     validations:
       required: true
 
